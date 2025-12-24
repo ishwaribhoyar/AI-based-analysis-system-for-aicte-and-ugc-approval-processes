@@ -1,0 +1,26 @@
+Batch: batch_aicte_20251205_041749_df38ef29
+Student block data:
+{
+  "total_students": 1840,
+  "ug_enrollment": 1520,
+  "pg_enrollment": 320,
+  "intake_capacity_ug": 1600,
+  "intake_capacity_pg": 350,
+  "foreign_students": 28,
+  "evidence": {
+    "snippet": "Total Students: 1840",
+    "page": 1
+  },
+  "total_intake": null,
+  "admitted_students": null,
+  "program_wise_enrollment": null,
+  "male": null,
+  "female": null,
+  "last_updated_year": null,
+  "total_students_num": 184.0,
+  "ug_enrollment_num": 152.0,
+  "pg_enrollment_num": 320.0,
+  "intake_capacity_ug_num": 160.0,
+  "intake_capacity_pg_num": 350.0,
+  "foreign_students_num": 28.0
+}

@@ -1,0 +1,127 @@
+{
+  "status": "completed",
+  "blocks": [
+    {
+      "name": "Faculty Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 30,
+      "is_outdated": false,
+      "is_invalid": false
+    },
+    {
+      "name": "Student Enrollment Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 21,
+      "is_outdated": false,
+      "is_invalid": false
+    },
+    {
+      "name": "Infrastructure Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 29,
+      "is_outdated": true,
+      "is_invalid": false
+    },
+    {
+      "name": "Lab & Equipment Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 18,
+      "is_outdated": false,
+      "is_invalid": false
+    },
+    {
+      "name": "Safety & Compliance Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 13,
+      "is_outdated": false,
+      "is_invalid": false
+    },
+    {
+      "name": "Academic Calendar Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 16,
+      "is_outdated": false,
+      "is_invalid": false
+    },
+    {
+      "name": "Fee Structure Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 12,
+      "is_outdated": true,
+      "is_invalid": false
+    },
+    {
+      "name": "Placement Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 19,
+      "is_outdated": false,
+      "is_invalid": false
+    },
+    {
+      "name": "Research & Innovation Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 14,
+      "is_outdated": false,
+      "is_invalid": false
+    },
+    {
+      "name": "Mandatory Committees Information",
+      "is_present": true,
+      "confidence": 0.2605633802816901,
+      "extracted_fields_count": 13,
+      "is_outdated": false,
+      "is_invalid": false
+    }
+  ],
+  "kpis": [
+    {
+      "name": "FSR Score",
+      "value": 100.0,
+      "label": "FSR Score"
+    },
+    {
+      "name": "Infrastructure Score",
+      "value": 65.0,
+      "label": "Infrastructure Score"
+    },
+    {
+      "name": "Placement Index",
+      "value": 84.76,
+      "label": "Placement Index"
+    },
+    {
+      "name": "Lab Compliance Index",
+      "value": 100.0,
+      "label": "Lab Compliance Index"
+    },
+    {
+      "name": "AICTE Overall Score",
+      "value": 94.92,
+      "label": "AICTE Overall Score"
+    }
+  ],
+  "sufficiency": {
+    "percentage": 92.0,
+    "present_count": 10,
+    "required_count": 10,
+    "missing_blocks": [],
+    "penalty_breakdown": {
+      "outdated": 2,
+      "low_quality": 0,
+      "invalid": 0
+    }
+  },
+  "compliance_flags": [],
+  "errors": [],
+  "batch_id": "batch_aicte_20251208_125615_44053dc1",
+  "pipeline_status": "completed"
+}

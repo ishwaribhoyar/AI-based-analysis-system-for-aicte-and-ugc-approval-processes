@@ -1,0 +1,9 @@
+{
+  "name": "Smart Approval AI",
+  "short_name": "SmartApproval",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "AI-based document analysis and KPI dashboard for AICTE & UGC reviewers."
+}

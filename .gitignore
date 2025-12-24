@@ -1,0 +1,49 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+
+# Node
+node_modules/
+.npm
+*.log
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Storage (uploaded files)
+storage/
+backend/storage/
+backend/figures/
+backend/data/
+
+# Test outputs
+*.log
+test_output*.txt
+debug_output.txt
+uvicorn.log
